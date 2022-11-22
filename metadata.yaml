@@ -1,5 +1,8 @@
 _repo: Onanism-display-d-being-I-an-enquiry-into-the-true-nature-of-Onans-sin-II-of-the-modern-Onani__69311
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69311-h/images/cover.jpg
 creator:
   author:
     agent_name: United States
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1
     wikipedia: https://en.wikipedia.org/wiki/United_States
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69311#Onanism-display-d-being-I-an-enquiry-into-the-true-nature-of-Onans-sin-II-of-the-modern-Onani_
 gutenberg_issued: '2022-11-07'
 identifiers:
   gutenberg: '69311'
